@@ -64,8 +64,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
    - Run the script to create additional user accounts.
    - Check ADUC to see the new accounts in the appropriate OU and attempt to log into Client-1 with one of the accounts.
 
+
 Remember to clean up your Azure environment by closing your Remote Desktop connection and deleting the Resource Group(s) created in the beginning.
 
-I hope this revised guide helps you understand network security protocols and observe traffic between virtual machines. Feel free to use a PC or a Mac, with the Mac requiring an extra step to download the Remote Desktop App.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Finish. 
+
+This revised guide will help you understand network security protocols and observe traffic between virtual machines.
+
